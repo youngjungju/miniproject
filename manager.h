@@ -12,6 +12,7 @@ int addProduct(Product *p);
 void readProduct(Product p);
 void listProduct(Product* p, int count);
 int selectDataNo(Product* p, int count);
+//상품 업데이트
 int updateProduct(Product *p);
 int deleteProduct(Product *p);
 int selectMenu();
