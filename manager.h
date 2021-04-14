@@ -24,6 +24,7 @@ void saveData(Product *p, int count);
 void searchName(Product *p, int count);
 //상품 가격 검색 
 void searchPrice(Product *p, int count);
+//상품 무게 검색
 void searchWeight(Product *p, int count);
 
 
