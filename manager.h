@@ -11,6 +11,7 @@ int addProduct(Product *p);
 //읽기 함수 
 void readProduct(Product p);
 void listProduct(Product* p, int count);
+//상품 넘버 선택 
 int selectDataNo(Product* p, int count);
 //상품 업데이트
 int updateProduct(Product *p);
