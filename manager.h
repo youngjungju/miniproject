@@ -20,6 +20,7 @@ int updateProduct(Product *p);
 int deleteProduct(Product *p);
 //메뉴 리스트 출력	
 int selectMenu();
+//데이터로드
 int loadData(Product *p);
 void saveData(Product *p, int count);
 //상품 이름 검색
