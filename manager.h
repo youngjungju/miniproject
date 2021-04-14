@@ -14,6 +14,7 @@ void listProduct(Product* p, int count);
 int selectDataNo(Product* p, int count);
 //상품 업데이트
 int updateProduct(Product *p);
+//상품 삭제
 int deleteProduct(Product *p);
 int selectMenu();
 int loadData(Product *p);
