@@ -8,6 +8,7 @@ typedef struct {
 } Product;
 //상품 추가함수 
 int addProduct(Product *p);
+//읽기 함수 
 void readProduct(Product p);
 void listProduct(Product* p, int count);
 int selectDataNo(Product* p, int count);
