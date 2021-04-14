@@ -1,4 +1,5 @@
 //manager.h
+//구조체
 typedef struct {
     char name[40];
     int weight;
