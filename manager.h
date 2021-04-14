@@ -20,6 +20,7 @@ int deleteProduct(Product *p);
 int selectMenu();
 int loadData(Product *p);
 void saveData(Product *p, int count);
+//상품 검색
 void searchName(Product *p, int count);
 void searchPrice(Product *p, int count);
 void searchWeight(Product *p, int count);
